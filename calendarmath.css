@@ -1,0 +1,42 @@
+.container{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.score_display{
+    font-size: 30px;
+    color: green;
+    margin-bottom: 40px;
+}
+
+.answer{
+    margin-top: 10px;
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.date{
+    margin: 0 auto;
+    width: 200px;
+    display: flex;
+}
+
+.year{
+    flex:auto
+}
+
+.month{
+    flex:auto
+}
+
+.day{
+    flex: auto;
+}
+
+.running_count{
+    font-size: 40px;
+    margin-top: 20px;
+}
